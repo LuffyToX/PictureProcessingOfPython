@@ -20,4 +20,5 @@ def change_filename(file_path):
 
 if __name__ == "__main__":
     file_path = "D:\\相册\\蠢宝"
+    #file_path = "D:\\相册\\动漫"
     change_filename(file_path)
